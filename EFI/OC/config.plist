@@ -10,7 +10,7 @@
                     <key>Comment</key>
                     <string>SSDT-ALSD.aml</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-ALSD.aml</string>
                 </dict>
@@ -26,7 +26,7 @@
                     <key>Comment</key>
                     <string>SSDT-EC.aml</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-EC.aml</string>
                 </dict>
@@ -90,7 +90,7 @@
                     <key>Comment</key>
                     <string>SSDT-USBX.aml</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-USBX.aml</string>
                 </dict>
@@ -1360,7 +1360,7 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro16,3</string>
+                <string>MacBookPro15,2</string>
                 <key>SystemSerialNumber</key>
                 <string></string>
                 <key>SystemUUID</key>
